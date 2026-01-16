@@ -1,0 +1,169 @@
+Date,Location,AQI,AQI_Category,Precaution
+2025-05-05,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-05-05,Peacock Lake,N/A,Unknown,Data unavailable
+2025-05-05,Health Center,N/A,Unknown,Data unavailable
+2025-05-05,SEST,N/A,Unknown,Data unavailable
+2025-05-05,High Rocks,N/A,Unknown,Data unavailable
+2025-05-05,Helipad,N/A,Unknown,Data unavailable
+2025-05-05,North Hostel,N/A,Unknown,Data unavailable
+2025-05-05,South Hostel,N/A,Unknown,Data unavailable
+2025-05-05,Admin Block,N/A,Unknown,Data unavailable
+2025-05-05,Library,N/A,Unknown,Data unavailable
+2025-05-05,South Campus Gate,N/A,Unknown,Data unavailable
+2025-05-05,Canteen Area,N/A,Unknown,Data unavailable
+2025-05-04,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-05-04,Peacock Lake,N/A,Unknown,Data unavailable
+2025-05-04,Health Center,N/A,Unknown,Data unavailable
+2025-05-04,SEST,N/A,Unknown,Data unavailable
+2025-05-04,High Rocks,N/A,Unknown,Data unavailable
+2025-05-04,Helipad,N/A,Unknown,Data unavailable
+2025-05-04,North Hostel,N/A,Unknown,Data unavailable
+2025-05-04,South Hostel,N/A,Unknown,Data unavailable
+2025-05-04,Admin Block,N/A,Unknown,Data unavailable
+2025-05-04,Library,N/A,Unknown,Data unavailable
+2025-05-04,South Campus Gate,N/A,Unknown,Data unavailable
+2025-05-04,Canteen Area,N/A,Unknown,Data unavailable
+2025-05-03,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-05-03,Peacock Lake,N/A,Unknown,Data unavailable
+2025-05-03,Health Center,N/A,Unknown,Data unavailable
+2025-05-03,SEST,N/A,Unknown,Data unavailable
+2025-05-03,High Rocks,N/A,Unknown,Data unavailable
+2025-05-03,Helipad,N/A,Unknown,Data unavailable
+2025-05-03,North Hostel,N/A,Unknown,Data unavailable
+2025-05-03,South Hostel,N/A,Unknown,Data unavailable
+2025-05-03,Admin Block,N/A,Unknown,Data unavailable
+2025-05-03,Library,N/A,Unknown,Data unavailable
+2025-05-03,South Campus Gate,N/A,Unknown,Data unavailable
+2025-05-03,Canteen Area,N/A,Unknown,Data unavailable
+2025-05-02,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-05-02,Peacock Lake,N/A,Unknown,Data unavailable
+2025-05-02,Health Center,N/A,Unknown,Data unavailable
+2025-05-02,SEST,N/A,Unknown,Data unavailable
+2025-05-02,High Rocks,N/A,Unknown,Data unavailable
+2025-05-02,Helipad,N/A,Unknown,Data unavailable
+2025-05-02,North Hostel,N/A,Unknown,Data unavailable
+2025-05-02,South Hostel,N/A,Unknown,Data unavailable
+2025-05-02,Admin Block,N/A,Unknown,Data unavailable
+2025-05-02,Library,N/A,Unknown,Data unavailable
+2025-05-02,South Campus Gate,N/A,Unknown,Data unavailable
+2025-05-02,Canteen Area,N/A,Unknown,Data unavailable
+2025-05-01,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-05-01,Peacock Lake,N/A,Unknown,Data unavailable
+2025-05-01,Health Center,N/A,Unknown,Data unavailable
+2025-05-01,SEST,N/A,Unknown,Data unavailable
+2025-05-01,High Rocks,N/A,Unknown,Data unavailable
+2025-05-01,Helipad,N/A,Unknown,Data unavailable
+2025-05-01,North Hostel,N/A,Unknown,Data unavailable
+2025-05-01,South Hostel,N/A,Unknown,Data unavailable
+2025-05-01,Admin Block,N/A,Unknown,Data unavailable
+2025-05-01,Library,N/A,Unknown,Data unavailable
+2025-05-01,South Campus Gate,N/A,Unknown,Data unavailable
+2025-05-01,Canteen Area,N/A,Unknown,Data unavailable
+2025-04-30,Mushroom Rocks,N/A,Unknown,Data unavailable
+2025-04-30,Peacock Lake,N/A,Unknown,Data unavailable
+2025-04-30,Health Center,N/A,Unknown,Data unavailable
+2025-04-30,SEST,N/A,Unknown,Data unavailable
+2025-04-30,High Rocks,N/A,Unknown,Data unavailable
+2025-04-30,Helipad,N/A,Unknown,Data unavailable
+2025-04-30,North Hostel,N/A,Unknown,Data unavailable
+2025-04-30,South Hostel,N/A,Unknown,Data unavailable
+2025-04-30,Admin Block,N/A,Unknown,Data unavailable
+2025-04-30,Library,N/A,Unknown,Data unavailable
+2025-04-30,South Campus Gate,N/A,Unknown,Data unavailable
+2025-04-30,Canteen Area,100,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-29,Mushroom Rocks,102,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,Peacock Lake,98,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-29,Health Center,104,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,SEST,103,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,High Rocks,104,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,Helipad,101,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,North Hostel,98,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-29,South Hostel,99,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-29,Admin Block,101,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,Library,103,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-29,South Campus Gate,100,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-29,Canteen Area,99,Satisfactory,Sensitive people should limit prolonged exertion
+2025-04-28,Mushroom Rocks,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Peacock Lake,108,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Health Center,108,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,SEST,112,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,High Rocks,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Helipad,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,North Hostel,112,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,South Hostel,108,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Admin Block,109,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Library,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,South Campus Gate,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-28,Canteen Area,113,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Mushroom Rocks,117,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Peacock Lake,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Health Center,120,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,SEST,120,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,High Rocks,117,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Helipad,120,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,North Hostel,117,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,South Hostel,117,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Admin Block,119,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Library,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,South Campus Gate,120,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-27,Canteen Area,119,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Mushroom Rocks,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Peacock Lake,148,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Health Center,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,SEST,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,High Rocks,148,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Helipad,148,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,North Hostel,148,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,South Hostel,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Admin Block,148,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Library,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,South Campus Gate,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-26,Canteen Area,146,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Mushroom Rocks,122,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Peacock Lake,124,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Health Center,124,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,SEST,122,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,High Rocks,126,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Helipad,122,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,North Hostel,121,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,South Hostel,125,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Admin Block,124,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Library,124,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,South Campus Gate,125,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-25,Canteen Area,126,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Mushroom Rocks,118,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Peacock Lake,118,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Health Center,118,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,SEST,116,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,High Rocks,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Helipad,116,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,North Hostel,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,South Hostel,116,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Admin Block,114,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Library,116,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,South Campus Gate,118,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-24,Canteen Area,118,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Mushroom Rocks,123,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Peacock Lake,127,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Health Center,127,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,SEST,128,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,High Rocks,127,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Helipad,127,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,North Hostel,128,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,South Hostel,126,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Admin Block,123,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Library,125,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,South Campus Gate,124,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-23,Canteen Area,123,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Mushroom Rocks,130,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Peacock Lake,130,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Health Center,129,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,SEST,130,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,High Rocks,125,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Helipad,127,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,North Hostel,129,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,South Hostel,129,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Admin Block,128,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Library,128,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,South Campus Gate,130,Moderate,People with lung/heart disease should reduce outdoor activities
+2025-04-22,Canteen Area,128,Moderate,People with lung/heart disease should reduce outdoor activities
